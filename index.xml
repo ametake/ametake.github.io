@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyu (Lucy) Song</title>
+    <link>http://ametake.github.io/</link>
+    <description>Recent content on Xiaoyu (Lucy) Song</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 22:13:55 +0800</lastBuildDate>
+    
+	<atom:link href="http://ametake.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://ametake.github.io/about_me/</link>
+      <pubDate>Thu, 31 Oct 2019 03:30:50 +0800</pubDate>
+      
+      <guid>http://ametake.github.io/about_me/</guid>
+      <description>Me at MSRA halloween wine down
+Part of ShanghaiTech Orchestra after FOGG concert, I am the 4th rightest.
+My photography: Cattle Egret in Chenshan Botanical Garden
+My photography: Lotus blooming in July, Microsoft Suzhou Campus
+My photography: Nightview of Peking University Hall
+ Impression I have an enthusiastic, self-motivated and sanguine personality.
+I am out-going, good at communication, meanwhile thirsty in knowledge.
+I am always curious and ebullient about the world, with encyclopedic konwledge and interest.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://ametake.github.io/teaching/</link>
+      <pubDate>Thu, 31 Oct 2019 03:30:43 +0800</pubDate>
+      
+      <guid>http://ametake.github.io/teaching/</guid>
+      <description>I love teaching. I am thought as good at explaining knowledge in intuitive and attractive ways among my friends.
+Teaching Assistant Feb. 2017 - Jun. 2018, Shanghai, China
+From 2017 to 2018, I am teaching assistant in ShanghaiTech Univerisity in the following classes:
+ SI100: Introduction to information Science and Technology (2017 Spring), Instructor: Prof. Hao Chen, etc. SI100E: Introduction to Electrical Engineering (2018 Spring), Instructor: Prof. Yajun Ha, etc.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://ametake.github.io/experience/</link>
+      <pubDate>Thu, 31 Oct 2019 03:30:34 +0800</pubDate>
+      
+      <guid>http://ametake.github.io/experience/</guid>
+      <description>Microsoft, Software Engineer Intern May 2019 - Aug. 2019, Suzhou, China
+ Developed a robot independently answering users’ and engineers’ questions about routing system in natural language.
+ Implemented customized request inquire service in C# with blurred information for users in over 130 billion requests a day, averagely saving 3 hours a day for every engineer.
+ Collaborated remotely with an intern in the US to extract routing data and feedback to user through the bot using APIs.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ametake.github.io/research/</link>
+      <pubDate>Tue, 29 Oct 2019 22:13:55 +0800</pubDate>
+      
+      <guid>http://ametake.github.io/research/</guid>
+      <description>Next Generation Machine Learning System Microsoft Research, Sept. 2019 - Present
+Advisor: Ying Cao
+In long-term prospective, we are working together to build a next generation machine learning system that is designed in the view of system research and friendly to system, which focus on code and compiling level optimization rather than performance without considering cost. This can be reached by solving numerous sub-tasks. Currently, we are designing, executing and analyzing experiments to study merits of recurrent neural networks compared with the transformer in specific scopes on tasks such as Language Model, in order to investigate the reasons behind the results and use the discoveries to help further study.</description>
+    </item>
+    
+  </channel>
+</rss>
