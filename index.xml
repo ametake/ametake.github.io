@@ -57,7 +57,8 @@ From 2017 to 2018, I am teaching assistant in ShanghaiTech Univerisity in the fo
       <guid>https://ametake.github.io/research/</guid>
       <description>Next Generation Machine Learning System Microsoft Research, Sept. 2019 - Present
 Advisor: Ying Cao
-In long-term prospective, we are working together to build a next generation machine learning system that is designed in the view of system research and friendly to system, which focus on code and compiling level optimization rather than performance without considering cost. This can be reached by solving numerous sub-tasks. Currently, we are designing, executing and analyzing experiments to study merits of recurrent neural networks compared with the transformer in specific scopes on tasks such as Language Model, in order to investigate the reasons behind the results and use the discoveries to help further study.</description>
+In long-term prospective, we are working together to build a next generation machine learning system that is designed in the view of system research and friendly to system, which focus on code and compiling level optimization rather than performance without considering cost. This can be reached by solving numerous sub-tasks.
+Currently, we are designing, executing and analyzing experiments to study merits of recurrent neural networks compared with the transformer in specific scopes on tasks such as Language Model, in order to investigate the reasons behind the results and use the discoveries to help further study.</description>
     </item>
     
   </channel>
